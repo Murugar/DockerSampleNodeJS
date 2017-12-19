@@ -1,0 +1,9 @@
+{
+  "name": "dockernodejs",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
